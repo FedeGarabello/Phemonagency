@@ -93,6 +93,7 @@ header::before {
 
 .nav-link:hover{
     color: rgba(255, 255, 255, .8);
+    transition: 0.5s;
 }
 
 .nav-link.current{
